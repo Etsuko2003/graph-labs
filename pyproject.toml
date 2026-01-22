@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "centrale-labs"
+version = "0.1.0"
+description = ""
+authors = ["Etsuko2003 <nestoraraba@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.15"
+notebook = "^7.5.1"
+ipykernel = "^6.29"
+scipy = "^1.16.3"
+matplotlib = "^3.10.8"
+scikit-learn = "^1.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
