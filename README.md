@@ -1,2 +1,2 @@
 # graph-labs
-graph analytics labs notebook
+graph analytics labs notebooks
